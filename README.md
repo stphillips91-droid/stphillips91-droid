@@ -6,7 +6,7 @@ I'm an M.S. Data Analytics, emphasis in Data Science, with a background in busin
 
 ## About Me
 
-- 🎓 M.S. Data Science Candidate at Western Governors University
+- 🎓 M.S. Data Analytics, emphasis in Data Science at Western Governors University
 - 📊 Interested in Data Science, Machine Learning, and Business Intelligence
 - 💻 Building projects with Python, SQL, R, FastAPI, Tableau, and Power BI
 - 🚀 Currently developing production-style APIs, machine learning models, and analytical dashboards
