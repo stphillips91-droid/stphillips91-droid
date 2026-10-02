@@ -1,6 +1,6 @@
 # Hi, I'm Steven Phillips 👋
 
-I'm an M.S. Data Science candidate with a background in business leadership, operations, and analytics. I enjoy building data-driven solutions that help organizations make better decisions through machine learning, business intelligence, and software engineering.
+I'm an M.S. Data Analytics, emphasis in Data Science, with a background in business leadership, operations, and analytics. I enjoy building data-driven solutions that help organizations make better decisions through machine learning, business intelligence, and software engineering.
 
 ---
 
